@@ -1,3 +1,0 @@
-print('SystemError')
-print('gogogog')
-
